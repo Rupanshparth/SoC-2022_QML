@@ -20,7 +20,7 @@ We went through the basics of quantum mechanics using the notation of linear alg
 - Studied how quantum computers can do any classical computation.
 - Studied quantum parallelism.
 - Studied Deutsch and Deutsch-Josha algorithms.
-- Implemented Deutsch-Josha on qiskit.
+- Implemented Deutsch-Josha algorithm on qiskit.
 
 ###### Quantum Fourier Transform
 
