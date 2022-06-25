@@ -1,10 +1,10 @@
-## Quantum_Machine_Learning_SoC-2022##
+## Quantum_Machine_Learning_SoC-2022
 
-###### Basics of Quantum Mechanics######
+###### Basics of Quantum Mechanics
 
 We went through the basics of quantum mechanics using the notation of linear algebra. Studied the unitary time evolution under the Hamiltonion. Learnt about the Hermitan operators and importance of their eigenvlaues and eigenvectors. Learnt about the effects of measurement on Quantum systems. Also understood the idea of measurement in terms of projection operators.
 
-###### Quantum Circuits######
+###### Quantum Circuits
 
 - We started with the fundamental concept of quantum computation and quantum information, the quantum bit. 
 - We then studied the basic single qubit gates like identity gates, pauli gates, hadamard transform and rotations.
@@ -15,4 +15,4 @@ We went through the basics of quantum mechanics using the notation of linear alg
 - Prepared Bell gates in Qiskit and extended it to construct GHZ gate.
 - Constructed basic gates like swap gate and incrementation mod 8 gate.
 
-###### Quantum Algorithms######
+###### Quantum Algorithms
