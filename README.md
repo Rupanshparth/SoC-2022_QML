@@ -27,3 +27,4 @@ We went through the basics of quantum mechanics using the notation of linear alg
 - Studied discrete Fourier Transform and it's inverse.
 - Studied the phase finding algorithm for finding the phase of eigenvalues. Also studied the number of qubits needed to set the precision of the phase value.
 - Understood the order finding and factoring algorithms using phase estimation algorithm.
+- Then implemented QFT, Phase estimation algorithm, shor's algorithm and grovers algorithm on Qiskit.
