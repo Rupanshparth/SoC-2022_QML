@@ -29,7 +29,7 @@ We went through the basics of quantum mechanics using the notation of linear alg
 - Understood the order finding and factoring algorithms using phase estimation algorithm.
 - Then implemented QFT, Phase estimation algorithm, shor's algorithm and grovers algorithm on Qiskit.
 
-#### Machine Learning
+#### Machine Learning and Quantum Machine Learning
 - Learnt the concept of Linear and Logistic regression and how to implement them using python.
 - Learnt how the clustering technique forms clusters of the points having similarities.
 - Learnt how SVM's create lines or hyperplanes to form separate classes.
@@ -37,3 +37,5 @@ We went through the basics of quantum mechanics using the notation of linear alg
 - Learnt how to implement stochastic gradient decsent learning algorithm for feed-forward neural network.
 - Implemented linear regression, clustering and SVM classifications using SkLearn library.
 - Implemented a neural network to classify images from MNIST dataset into 10 categories using TensorFlow library.
+- Then studied some quantum machine learning models and learned how using quantum circuits can reduce the computations involved to get a certain level of accuracy, when compared to a similar classical machine learning mode
+- Then finally, implemented a paper introducing Quanvolutional Neural Network, utilizing quantum features to preprocess the dataset.
